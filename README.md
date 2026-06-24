@@ -53,6 +53,19 @@ que combine RAG con la API pública del SAIJ para acceso a jurisprudencia
 argentina actualizada — sin depender de servicios externos pagos y respetando 
 la confidencialidad de los expedientes.
 
+## Corpus documental incluido
+
+Los PDFs para testear el sistema están disponibles en este repositorio:
+
+- [`Ley Defensa al Consumidor.pdf`](./Ley%20Defensa%20al%20Consumidor.pdf) — Ley 24.240 completa
+- [`CCYC - TITULO III - Contratos de Consumo.pdf`](./CCYC%20-%20TITULO%20III%20-%20Contratos%20de%20Consumo.pdf) — Arts. 1092–1122 CCyC
+
+Descargalos y subilos desde la pestaña "Cargar documentos" del Space.
+
+## Space en HuggingFace
+
+🚀 [Probá el sistema en vivo](https://huggingface.co/spaces/CarlosEstigarribia/rag-legal-consumidor-argentino)
+
 ## Cómo usar el sistema
 
 1. Abrí la pestaña **"Cargar documentos"**
