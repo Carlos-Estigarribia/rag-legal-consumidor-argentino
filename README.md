@@ -27,7 +27,6 @@ devolviendo tiempo para el trabajo que realmente requiere expertise jurídico.
 
 - Ley 24.240 de Defensa del Consumidor (texto completo)
 - Código Civil y Comercial — Título III: Contratos de consumo
-- Fallos judiciales seleccionados de Cámara sobre defensa del consumidor
 
 ## Tecnologías utilizadas
 
