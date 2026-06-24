@@ -1,0 +1,26 @@
+# Proyecto Final — RAG Legal — Derecho del Consumidor Argentino
+# Tecnicatura Superior en Ciencia de Datos e IA — IFTS24, 2026
+#
+# HuggingFace Spaces instala esto automáticamente.
+# Localmente: uv pip install -r requirements.txt
+
+# Pipeline RAG
+langchain>=1.0.0
+langchain-community>=0.4.0
+langchain-chroma>=1.0.0
+langchain-text-splitters>=1.0.0
+langchain-core>=1.0.0
+langchain-huggingface>=0.1.0
+
+# Base vectorial y embeddings
+chromadb>=0.6.0
+sentence-transformers>=3.0.0
+
+# Carga de PDFs
+pypdf>=5.0.0
+
+# Interfaz
+gradio>=5.0.0
+
+# Inferencia HuggingFace directa
+huggingface-hub>=0.20.0
